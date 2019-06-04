@@ -1,0 +1,5 @@
+to install mp4box
+https://stackoverflow.com/questions/42736741/how-can-i-install-mp4box-on-centos7-3
+
+EX CMD
+$ MP4Box -dash 10000 -frag 1000 -rap movies.mp4
